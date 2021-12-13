@@ -16,16 +16,8 @@
 
 ## Languages and Tools
 
-<img src="./resources/assets/html.png" height="45"/>
-<img src="./resources/assets/css.png" height="45"/>
-<img src="./resources/assets/js.png" height="40"/>
-<img src="./resources/assets/react.png" height="45"/>
-<img src="./resources/assets/node.png" height="45"/>
-<img src="./resources/assets/npm.svg" height="45"/>
-<img src="./resources/assets/express.png" height="40"/>
-<img src="./resources/assets/postgresql.png" height="45"/>
-<img src="./resources/assets/github.svg" height="40"/>
-<img src="./resources/assets/git.png" height="45"/>
+<img src="./resources/assets/html.png" height="45"/> <img src="./resources/assets/css.png" height="45"/><img src="./resources/assets/js.png" height="40"/><img src="./resources/assets/react.png" height="45"/>
+<img src="./resources/assets/node.png" height="45"/><img src="./resources/assets/npm.svg" height="45"/><img src="./resources/assets/express.png" height="40"/><img src="./resources/assets/postgresql.png" height="45"/><img src="./resources/assets/github.svg" height="40"/><img src="./resources/assets/git.png" height="45"/>
 
 <br />
 
