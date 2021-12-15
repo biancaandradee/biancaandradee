@@ -33,4 +33,4 @@
 
 <!-- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=biancaandradee&theme=tokyonight%22" /> -->
 
-![Snake animation](https://github.com/biancaandradee/biancaandradee/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/biancaandradee/biancaandradee/blob/output/github-contribution-grid-snake.svg) -->
