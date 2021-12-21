@@ -24,9 +24,7 @@
 ## Contacts
 <div>
  
-[![Hotmail Badge](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:bi_andradehandan@hotmail.com)](mailto:bi_andradehandan@hotmail.com)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-andrade-handan)](https://www.linkedin.com/in/bianca-andrade-handan)
+[![Hotmail Badge](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:bi_andradehandan@hotmail.com)](mailto:bi_andradehandan@hotmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bianca-andrade-handan)](https://www.linkedin.com/in/bianca-andrade-handan)
  
 </div>
 
