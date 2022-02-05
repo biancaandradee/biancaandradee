@@ -2,7 +2,7 @@
 
 ## About me
 
-📚 I'm a Full Stack Web Developer student
+📚 I'm a Full Stack Web Developer
 
 📖 Working with HTML, CSS JavaScript, Node.js, React and PostgresSQL
 
