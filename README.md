@@ -4,7 +4,7 @@
 
 📚 I'm a Full Stack Web Developer
 
-📖 Working with HTML, CSS JavaScript, Node.js, React and PostgresSQL
+📖 Working with HTML, CSS JavaScript, Node.js, React and PostgreSQL
 
 ⚡ Always learning and improving my knowledge with hard work and practice!
 
